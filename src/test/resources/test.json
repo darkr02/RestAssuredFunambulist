@@ -1,0 +1,13 @@
+{
+  "id": "idvalue",
+  "firstname": "fname",
+  "lastname": "lname",
+  "email": "emailid",
+  "jobs": ["tester","trainer"],
+  "favFoods": {
+    "breakfast": "idly",
+    "lunch": "rice",
+    "dinner": ["chapati","milk"]
+  }
+
+}
